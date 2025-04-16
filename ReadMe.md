@@ -38,19 +38,24 @@ Data sources:
   - Be slightly more engaged (based on `IsActiveMember`).
 - **Credit card ownership** does not significantly increase with tenure.
 ![Customer Enagement](image-4.png)
+![Customer Engagement](image-5.png)
 
 
 ### 3. Financial Performance
 - **Credit Scores**:
   - Stable across age groups, though older customers have slightly wider distributions.
+  ![Credit](image-6.png)
 - **Balances**:
   - Tend to increase with age.
   - **35–54 age group** holds the highest balances.
+  ![Balance](image-7.png)
 - **Estimated Salary**: Fairly uniform across age groups, showing no strong correlation.
+![Balance](image-8.png)
 
 ### 4. Exited Customers Analysis
 - **Exited customers** are more likely to:
-  - Be aged **45–54**, or over 55.
+![Customer](image-9.png)
+  - Be aged **35–44**.
   - Have **higher balances**.
   - Have **lower credit scores** on average.
 - Younger, lower-balance customers are less likely to churn.
@@ -59,6 +64,9 @@ Data sources:
 - Customers split into:
   - **High balance**: Tend to have higher estimated salaries and are slightly older.
   - **Low balance**: More spread across age and salary levels.
+  ![alt text](image-10.png)
+  ![alt text](image-11.png)
+  
 - These segments could benefit from **tailored financial products**.
 
 ---
