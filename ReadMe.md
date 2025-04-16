@@ -88,11 +88,4 @@ Data sources:
 - **Geography Optimization**:
   - Customize offers by geography—especially where credit and salary behavior differ (e.g., Germany vs Spain).
 
----
 
-## 📂 How to Run
-
-1. Ensure the CSV files `Customer_Info.csv` and `Account_Info.csv` are in the working directory.
-2. Install required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn
